@@ -1,0 +1,13 @@
+init 3
+add i 111
+add x 21
+add i 111
+add z 37 
+add y 323
+list
+order NAME
+order HASH
+order ADDR
+reset
+list
+
